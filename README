@@ -1,0 +1,4 @@
+open_rss reads email message produced by rss2email from stdin,
+and opens the rss destination link in your web browser.
+RSS feeds, encoded in email message, should be piped by your mail reader
+into open_rss.
